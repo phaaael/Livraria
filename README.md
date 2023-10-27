@@ -6,14 +6,14 @@
     Livraria:
 </h3>
 
-**O cliente __XPTO__, solicitou a modelagem de um banco de dados para cadastro dos seus clientes**
- A função da empresa __XPTO__ é a análise dos requisitos junto aos usuários para a correta construção do produto. O cliente deseja que inicialmente os scripts sejam construídos para o Banco de Dados MySQL, porém, posteriormente pode haver mudança no ambiente e 
- consequentemente adaptação dos scripts para outros produtos de SGBD.
+ O cliente __XPTO__, solicitou a modelagem de um banco de dados para cadastro dos seus clientes. A função da empresa __XPTO__ é a análise dos requisitos junto aos usuários para a correta construção do produto. O cliente deseja que inicialmente os scripts sejam construídos 
+ para o Banco de Dados MySQL, porém, posteriormente pode haver mudança no ambiente e consequentemente adaptação dos scripts para outros produtos de SGBD.
 
  O cliente não quer nenhuma informação relativa à vendas ou estoque, desejando somente as informações primárias de Clientes.
 
  O nosso cliente solicitou uma tabela para armazenar os livros que são comercializados pela empresa. A solicitação é somente para livros e não há a necessidade de realizar busca em outras tabelas. Hoje há um funcionário de vendas que tem uma tabela do Excel para guardar 
  esses registros, mas as buscas estão ficando complexas. Decidiu-se então criar um banco de dados separado para esse funcionário.
+ 
  **Após a criação da tabela, deveremos entregar algumas queries prontas para que sejam enviadas para o programador. As queries são as seguintes:**
 
   1. Trazer todos os dados.
