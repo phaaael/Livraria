@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Requisitos do Software
+    Requisitos do Software:
 </h3>
 
 # O cliente __XPTO__, solicitou a modelagem de um banco de dados para cadastro dos seus clientes
