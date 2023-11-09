@@ -30,4 +30,5 @@
 Estamos no início da modelagem para um sistema, e o nosso gestor nos pediu a modelagem da tabela de clientes com a seguinte regra de negócios:
 
 __Endereço__ -> Obrigatorio o cadastro de um endereço, e só pode ter um endereço por cliente.
+
 __Telefone__ -> O cliente não é obrigado a informar, caso decida colocar, não tem limite
