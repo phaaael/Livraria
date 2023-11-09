@@ -32,3 +32,11 @@ Estamos no início da modelagem para um sistema, e o nosso gestor nos pediu a mo
 __Endereço__ -> Obrigatorio o cadastro de um endereço, e só pode ter um endereço por cliente.
 
 __Telefone__ -> O cliente não é obrigado a informar, caso decida colocar, não tem limite
+
+**Após a criação das tabelas, deveremos entregar algumas queries. As queries são as seguintes:**
+
+  1. Relatorio geral de todos os clientes.
+  2. Relatorio de Homens
+  3. Relatorio de Mulheres
+  4. Quantidade de homens  e mulheres
+  5. IDs e E-mail das mulheres que moram no centro do rio de janeiro e não tenham celular
