@@ -33,7 +33,7 @@ SELECT COUNT(*)
 FROM CLIENTE
 GROUP BY SEXO;
 
-/* IDs E E-mail das mulheres que moram no centro do rio de janeiro e não tenham celular */
+/* IDs E E-mail das mulheres que moram no centro do rio de janeiro */
 
 SELECT C.IDCLIENTE, C.EMAIL
 FROM CLIENTE C
