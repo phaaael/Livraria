@@ -23,3 +23,6 @@
   5. Trazer os valores dos livros das editoras de São Paulo.
   6. Trazer os dados dos autores do sexo masculino que tiveram livros publicados por São Paulo ou Rio de Janeiro.
 
+<h3 align="center">
+    Comércio:
+</h3>
