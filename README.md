@@ -39,4 +39,4 @@ __Telefone__ -> O cliente não é obrigado a informar, caso decida colocar, não
   2. Relatorio de Homens
   3. Relatorio de Mulheres
   4. Quantidade de homens  e mulheres
-  5. IDs e E-mail das mulheres que moram no centro do rio de janeiro e não tenham celular
+  5. IDs e E-mail das mulheres que moram no centro do rio de janeiro.
